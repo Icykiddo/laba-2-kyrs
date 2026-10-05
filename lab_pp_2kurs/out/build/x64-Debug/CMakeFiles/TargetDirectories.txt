@@ -1,5 +1,0 @@
-C:/Users/Артём/source/repos/lab_pp_2kurs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Артём/source/repos/lab_pp_2kurs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Артём/source/repos/lab_pp_2kurs/out/build/x64-Debug/laba1/CMakeFiles/laba1.dir
-C:/Users/Артём/source/repos/lab_pp_2kurs/out/build/x64-Debug/laba1/CMakeFiles/edit_cache.dir
-C:/Users/Артём/source/repos/lab_pp_2kurs/out/build/x64-Debug/laba1/CMakeFiles/rebuild_cache.dir

@@ -2,7 +2,7 @@ import re
 
 from collections import Counter
 
-with open("data.txt", "r") as file:
+with open("data.txt", "r", encoding="utf-8") as file:
 
     text = file.readlines()
 

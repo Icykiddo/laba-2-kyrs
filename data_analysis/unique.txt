@@ -1,0 +1,18 @@
+Li-Yang Tan, Assistant Professor, Theory
+Aviad Rubinstein, Assistant Professor, Theory
+Gregory Valiant, Associate Professor, Theory
+Omer Reingold, Professor, Theory
+Nima Anari, Assistant Professor, Theory
+Moses Charikar, Professor, Theory
+Kayvon Fatahalian, Associate Professor, Computer Graphics
+Sara Achour, Assistant Professor, Computer Systems
+James Landay, Professor, Human-Computer Interaction (HCI)
+Mary Wootters, Assistant Professor, Theory
+Aaron Sidford, Assistant Professor, Theory
+Adam Bouland, Assistant Professor, Theory
+Mike Genesereth, Associate Professor, Artificial Intelligence
+John Mitchell, Professor, Computer Security
+Mehran Sahami, Professor, Computational Education
+Doug James, Professor, Computer Graphics
+Michael Bernstein, Associate Professor, Human-Computer Interaction (HCI)
+John Hennessy, Professor, Computer Systems

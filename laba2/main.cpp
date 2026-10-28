@@ -67,9 +67,9 @@ int main()
 #pragma omp parallel for num_threads(my_threads)
 	for (int i = 0; i < C.N; i++)
 	{
-		for (int j = 0; j < C.N; j++)
+		for (int k = 0; k < C.N; k++)
 		{
-			for (int k = 0; k < C.N; k++)
+			for (int j = 0; j < C.N; j++)
 			{
 				C.data[i * C.N + j] += A.data[i * A.N + k] * B.data[k * B.N + j];
 			}
@@ -78,7 +78,7 @@ int main()
 	auto end_time = std::chrono::high_resolution_clock::now();
 	std::chrono::duration<double> duration = end_time - start_time;
 	std::cout << "Lead time: " << duration.count() << "seconds" << std::endl;
-	std::ofstream OutFile(L"C:\\Users\\Артём\\source\\repos\\lab_pp_2kurs\\laba2\\output8_5.txt");
+	std::ofstream OutFile(L"C:\\Users\\Артём\\source\\repos\\lab_pp_2kurs\\laba2\\output5_5.txt");
 	if (OutFile.is_open())
 	{
 		OutFile << "Volume (N): " << C.N << "\n\n";

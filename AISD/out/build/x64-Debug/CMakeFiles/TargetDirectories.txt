@@ -1,0 +1,5 @@
+C:/Users/Артём/source/repos/AISD/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Артём/source/repos/AISD/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Артём/source/repos/AISD/out/build/x64-Debug/lab1/CMakeFiles/lab1.dir
+C:/Users/Артём/source/repos/AISD/out/build/x64-Debug/lab1/CMakeFiles/edit_cache.dir
+C:/Users/Артём/source/repos/AISD/out/build/x64-Debug/lab1/CMakeFiles/rebuild_cache.dir
